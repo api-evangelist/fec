@@ -35,11 +35,11 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Government
   - Public APIs
+  - Government Data
 apis:
   - name: FEC
     description: "Information on campaign donations in federal elections"
     humanURL: https://api.open.fec.gov/developers/
-    baseURL: https://api.open.fec.gov/developers/
     tags:
       - Government
     properties:
